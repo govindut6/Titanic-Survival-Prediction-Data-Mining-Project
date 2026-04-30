@@ -1,7 +1,7 @@
 
 # 🚢 Titanic Survival Prediction
 
-This repository explores predictive modeling of the Titanic Survival Prediction outcomes during disembarkation using structured data from Kaggle, using regression and classification techniques to analyze the relationship between various passenger characteristics:
+This repository explores predictive modeling of the Titanic Survival prediction outcomes during disembarkation using structured data from Kaggle, using regression and classification techniques to analyze the relationship between various passenger characteristics and survival outcomes:
 https://www.kaggle.com/datasets/yasserh/titanic-dataset 
 
 ## Objectives
@@ -93,7 +93,7 @@ https://www.kaggle.com/datasets/yasserh/titanic-dataset
 ## Results Reproduction
 
 1. Download Dataset: 
-https://www.kaggle.com/datasets/vshreekamalesh/comprehensive-formula-1-dataset-2020-2025
+https://www.kaggle.com/datasets/yasserh/titanic-dataset 
 
 2. Run Notebook
 Open the notebook (Kaggle Tabular Data.ipynb)
@@ -150,10 +150,10 @@ You can change the target variable or model to experiment further
 ## Citations & References
 
 * Formula One Kaggle Dataset:
-https://www.kaggle.com/datasets/vshreekamalesh/comprehensive-formula-1-dataset-2020-2025
+https://www.kaggle.com/datasets/yasserh/titanic-dataset 
 * Scikit-learn documentation:
 https://scikit-learn.org/
 
 ## Concluding Statement
 
-This project demonstrates how structured motorsport data can be used to build predictive models, bridging sports analytics and machine learning while highlighting both the strengths and limitations of predictive modeling in dynamic, real-world environments.
+This project demonstrates how structured  data can be used to build predictive models, bridging the Titanic disembarkation and machine learning while highlighting both the strengths and limitations of predictive modeling in dynamic, real-world environments.
